@@ -1,4 +1,4 @@
-Wiki STI2D (Lycée Pierre Mendès France)
+STI2D (Lycée Pierre Mendès France)
 =
 
 La STI2D du Lycée Pierre Mendès France est une filière extrèmement particulière. Cependant ce n'est pas identique pour toute les [STI2D](https://tinyurl.com/yc7ftfbj) et cela concerne principalement la STI2D de Pierre Mendes France Vitrolles
