@@ -1,6 +1,7 @@
 Wiki STI2D (Lycée Pierre Mendès France)
 =
-La STI2D du Lycée Pierre Mendès France est une filière extrèmement particulière.
+
+La STI2D du Lycée Pierre Mendès France est une filière extrèmement particulière. Cependant ce n'est pas identique pour toute les [STI2D](https://tinyurl.com/yc7ftfbj) et cela concerne principalement la STI2D de Pierre Mendes France Vitrolles
 ## Première STI2D
 
 
@@ -46,11 +47,19 @@ En première, on doit choisir entre plusieurs options qui consituront 6 heures d
 
 ##### SIN
 
-L'option **SIN** est la meilleure de toute, nous y fesons de l'électronique et de l'informatique
+L'option **SIN** est la meilleure de toute, on y fait de l'électronique et de l'informatique. SIN signifie Système d'Information et Numérique
 
 ##### ITEC
 
-L'option **ITEC** est la deuxième meilleure de toute, nous y fesons de l'électronique et de l'informatique
+L'option **ITEC** est la deuxième meilleure de toute, on y fait de la modélisation 3D, des calculs de forces et de vecteurs. ITEC signifie Innovation Technologique et Eco Comception
+
+##### EE
+
+L'option **EE** est la ***PIRE*** de toute, on y fait **RIEN** sauf des entrainements pour le grand oral du bac. EE signifie Énergie et Environnement.
+
+##### AC
+
+L'option **AC** n'est pas disponible au lycée Pierre Mendès France. AC signifie Architecture et Construction.
 
 #### Maths Physique-Chimie
 
@@ -58,9 +67,9 @@ Les deux spécialités **Maths Physique-Chimie** sont basées sur les enseigneme
 
 ### Matières Générales
 
-#### Français
+#### Philo
 
-En première STI2D, il y a moins d'heures de **français** qu'en première générale, l'épreuve anticipée du BAC de français se déroule de manière différente avec une épreuve écrite comportant un sujet de contraction et un essai à rediger ou un commentaire de texte avec problématique donnée.
+En terminale STI2D, il y a moins 2 fois mouins d'heures de **français** qu'en terminale générale, l'épreuve anticipée du BAC de français se déroule de manière différente avec une épreuve écrite comportant un sujet de contraction et un essai à rediger ou un commentaire de texte avec problématique donnée.
 
 #### Autres Matères
 
