@@ -1,9 +1,14 @@
 STI2D (Lycée Pierre Mendès France)
 =
 
+
 La STI2D du Lycée Pierre Mendès France est une filière extrèmement particulière. Cependant ce n'est pas identique pour toute les [STI2D](https://tinyurl.com/yc7ftfbj) et cela concerne principalement la STI2D de Pierre Mendes France Vitrolles
+
 ## Première STI2D
 
+<details>
+<summary>Liste des Matières</summary>
+<br>
 
 ### Spécialités
 
@@ -33,7 +38,13 @@ La matière ETLV à lieu une fois par semaine et est géniale. Nous y regardons 
 
 Les autres matières ne sont pas bien différentes, cependant il y a moins d'heures que les généraux à causes des spécialitées (I2D, IT, Maths et Physique-Chimie).
 
+</details>
+
 ## Terminale STI2D
+
+<details>
+<summary>Liste des Matières</summary>
+
 
 ### Spécialités
 
@@ -79,9 +90,13 @@ En terminale STI2D, il y a moins 2 fois mouins d'heures de **philo** qu'en termi
 
 Les autres matières ne sont pas bien différentes, cependant il y a moins d'heures que les généraux à causes des spécialitées (I2D, IT, Maths et Physique-Chimie).
 
+</details>
+
 ## Les projets en SIN
 
-<img src="ProjetsChoix-1.png" width="512"/>
+<a href="https://sites.google.com/site/sinlpmf/projets-et-grand-oral?authuser=0
+" target="_blank"><img src="ProjetsChoix-1.png"
+width="512"  /></a>
 
 ## Les professeurs de STI2D
 
