@@ -32,7 +32,7 @@ En première STI2D, il y a moins d'heures de **français** qu'en première gén�
 
 #### ETLV
 
-La matière ETLV à lieu une fois par semaine et est géniale. Nous y regardons des vidéos du genre "Listening, Listening, Listening". Ou encore "Learn with your ears, not with your eyes", mais aussi "Greenhouse gases".
+La matière **ETLV** à lieu une fois par semaine et est géniale. Nous y regardons des vidéos du genre "Listening, Listening, Listening". Ou encore "Learn with your ears, not with your eyes", mais aussi "Greenhouse gases".
 
 #### Autres Matères
 
@@ -87,6 +87,7 @@ Les deux spécialités **Maths Physique-Chimie** sont basées sur les enseigneme
 En terminale STI2D, il y a moins 2 fois mouins d'heures de **philo** qu'en terminale générale, l'épreuve du BAC de philo se déroule de manière différente avec une épreuve écrite comportant un sujet de contraction et un essai à rediger ou un commentaire de texte avec problématique donnée.
 
 #### Autres Matères
+
 
 Les autres matières ne sont pas bien différentes, cependant il y a moins d'heures que les généraux à causes des spécialitées (I2D, IT, Maths et Physique-Chimie).
 
