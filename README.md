@@ -78,3 +78,7 @@ En terminale STI2D, il y a moins 2 fois mouins d'heures de **philo** qu'en termi
 #### Autres Matères
 
 Les autres matières ne sont pas bien différentes, cependant il y a moins d'heures que les généraux à causes des spécialitées (I2D, IT, Maths et Physique-Chimie).
+
+## Les projets
+
+<img src="relative/path/in/repository/to/image.svg" width="128"/>
