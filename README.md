@@ -94,3 +94,12 @@ Mr Barar | ITEC, IT | Première, Terminale
 Mr Houel | ETLV, Spé EE | Première, Terminale
 Mr Henoch | Spé SIN | Terminale
 Mme Molina | IT, Spé EE, I2D, 2I2D | Premiere Terminale 
+
+Citation de Mr VIGOUROUX
+> Vous rigolez parce que j'ai dit BIT,
+> Attendez de voir quand je vais vous parlez de l'algèbre de BOOLE
+
+Citation de Mr PEREZ
+> Les écoles privées cherche juste a faire de l'argent
+> tandis que les école publique cherches a vous instruire
+> Je veut pas vous influencez mais y'en a un qui cherche a vous apprendre
