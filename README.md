@@ -114,8 +114,8 @@ Mr Henoch | Spé SIN | Terminale
 Mme Molina | IT, Spé EE, I2D, 2I2D | Premiere Terminale 
 
 Citation de Mr VIGOUROUX
-> Vous rigolez parce que j'ai dit BIT,
-> Attendez de voir quand je vais vous parlez de l'algèbre de BOOLE
+> Vous rigolez parce que j'ai dit `BIT`,
+> Attendez de voir quand je vais vous parlez de l'algèbre de `BOOLE`
 
 Citation de Mr PEREZ
 > Les écoles privées cherche juste a faire de l'argent
