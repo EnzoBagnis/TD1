@@ -50,7 +50,7 @@ Les autres matières ne sont pas bien différentes, cependant il y a moins d'heu
 
 #### 2I2D
 
-La matière **2I2D** en terminale est un mélange de de réseau et de mécanique. 2I2D signifie "Innovation, Ingénieurie et Dévellopement Durable". Durant les cours on y apprend le réseau, les liaisons séries et le cablâge et les bases de l'électronique. Mais aussi la descente de charges, les calculs d'accélération, de vitesse et les lois de la mécanique statique.
+La matière **2I2D** en terminale est un mélange de de réseau et de mécanique la matière a quasi identique a celle de premiere mais on ne l'appele plus ~~I2D~~. 2I2D signifie "Innovation, Ingénieurie et Dévellopement Durable". Durant les cours on y apprend le réseau, les liaisons séries et le cablâge et les bases de l'électronique. Mais aussi la descente de charges, les calculs d'accélération, de vitesse et les lois de la mécanique statique.
 
 #### Option de Spécialités
 
