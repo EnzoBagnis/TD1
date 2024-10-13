@@ -79,6 +79,18 @@ En terminale STI2D, il y a moins 2 fois mouins d'heures de **philo** qu'en termi
 
 Les autres matières ne sont pas bien différentes, cependant il y a moins d'heures que les généraux à causes des spécialitées (I2D, IT, Maths et Physique-Chimie).
 
-## Les projets
+## Les projets en SIN
 
-<img src="relative/path/in/repository/to/image.svg" width="128"/>
+<img src="ProjetsChoix-1.png" width="512"/>
+
+## Les professeurs de STI2D
+
+Nom | Matières | Année
+---|:---:|---:
+Mr Perez | 2I2D, Spé ITEC | Terminale
+Mr Sarcouff | 2I2D, Spé SIN, IT | Terminale
+Mr Vigouroux | I2D | Première
+Mr Barar | ITEC, IT | Première, Terminale
+Mr Houel | ETLV, Spé EE | Première, Terminale
+Mr Henoch | Spé SIN | Terminale
+Mme Molina | IT, Spé EE, I2D, 2I2D | Premiere Terminale 
