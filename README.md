@@ -98,6 +98,8 @@ Les autres matières ne sont pas bien différentes, cependant il y a moins d'heu
 " target="_blank"><img src="ProjetsChoix-1.png"
 width="512"  /></a>
 
+> _Vous pouvez cliquez sur l'image pour accedez au site fait par Mr Sarcouff et Mr Henoch_
+
 ## Les professeurs de STI2D
 
 Nom | Matières | Année
