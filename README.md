@@ -32,7 +32,7 @@ En première STI2D, il y a moins d'heures de **français** qu'en première gén�
 
 #### ETLV
 
-La matière **ETLV** à lieu une fois par semaine et est géniale. Nous y regardons des vidéos du genre "Listening, Listening, Listening". Ou encore "Learn with your ears, not with your eyes", mais aussi "Greenhouse gases".
+La matière **ETLV** à lieu une fois par semaine et est géniale. Nous y regardons des vidéos du genre "*Listening, Listening, Listening*". Ou encore "*Learn with your ears, not with your eyes*", mais aussi "*Greenhouse gases*".
 
 #### Autres Matères
 
